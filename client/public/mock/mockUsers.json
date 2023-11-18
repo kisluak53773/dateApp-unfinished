@@ -1,0 +1,27 @@
+[
+  {
+    "id":"1",
+    "email":"kislu@gmail.com",
+    "firstname":"Артур",
+    "lastname":"Кузьмин",
+    "gender":"Мужской",
+    "interestingGneder":"Мужской",
+    "photos": [
+      { "photo":"/mock/photo1.jpg" },
+      { "photo":"/mock/photo2.jpg" }
+    ]
+  },
+  {
+    "id":"2",
+    "email":"kislksad@gmail.com",
+    "firstname":"Никита",
+    "lastname":"Малашевич",
+    "gender":"Мужской",
+    "interestingGneder":"Мужской",
+    "photos": [
+      { "photo":"/mock/photo3.jpg" },
+      { "photo":"/mock/photo4.jpg" },
+      { "photo":"/mock/photo5.jpg" }
+    ]
+  }
+]
